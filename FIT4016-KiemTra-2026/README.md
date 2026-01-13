@@ -1,0 +1,6 @@
+# FIT4016 – School Management System
+
+Student ID: .............
+Full Name : .............
+
+Console application using Entity Framework Core to manage Schools and Students.
